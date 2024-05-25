@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1008188028017",
+    "project_id": "loginicio",
+    "storage_bucket": "loginicio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008188028017:android:ee73eba25bdc42a35157d0",
+        "android_client_info": {
+          "package_name": "com.LogInicio.loginicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008188028017-ibmkbcudqsan27krsgu9t8ips9fiiolf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LogInicio.loginicio",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1008188028017-823mdgq1n4uh8h1d8h6l7en8uqc3ipr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lwfNhIIxvwi-fxzGDqyi5bR1114MxaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008188028017-823mdgq1n4uh8h1d8h6l7en8uqc3ipr6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008188028017-j38udqknol9fea9nondp5llv340pgfio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.LogInicio.loginicio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
